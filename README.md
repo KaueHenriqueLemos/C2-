@@ -1,2 +1,2 @@
-# C2-
+# C2
 Entrega da C2
